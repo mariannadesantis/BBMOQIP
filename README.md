@@ -35,7 +35,7 @@ MATLAB files for the plot:
 - plot_image.m : plots in the image space L_PNS and the images of all feasible 
 		points found along the run of the algorithm (2D and 3D)
 
- T2.m, T2rand.m, T3rand.m, T4rand.m: instances used for the numerical 
+- T2.m, T2rand.m, T3rand.m, T4rand.m: instances used for the numerical 
  				     experiments in [1]
 				     
 To save the results properly, create a local folder named "savefiles"
