@@ -4,20 +4,6 @@ Implementation of  BB-MOQIP: the branch-and-bound method for solving  Multiobjec
 [1] "A Decision Space Algorithm for Multiobjective Convex Quadratic Integer Optimization"  by M. De Santis and G. Eichfelder
 
 
-==============================================================
-
-The directory provides the following folders:
-
-1)test instances : within "test instances" you can find
-                   the instances as .m files used for
-		   the numerical experiments in [1]:
-		   (T2),(T2rand),(T3rand),(T4rand).
-
-2)savefiles : is the folder where the results are stored
-
-==============================================================
-
-
 The directory  further provides the following files:
 
 
@@ -49,6 +35,10 @@ MATLAB files for the plot:
 - plot_image.m : plots in the image space L_PNS and the images of all feasible 
 		points found along the run of the algorithm (2D and 3D)
 
+ T2.m, T2rand.m, T3rand.m, T4rand.m: instances used for the numerical 
+ 				     experiments in [1]
+				     
+To save the results properly, create a local folder named "savefiles"
 
 
 ...enjoy, buon divertimento, viel Spass :-)
