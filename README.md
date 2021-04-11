@@ -1,7 +1,7 @@
 # BBMOQIP
 Implementation of  BB-MOQIP: the branch-and-bound method for solving  Multiobjective Convex Quadratic Integer Problems  presented in the paper 
 
-[1] "A Decision Space Algorithm for Multiobjective Convex Quadratic Integer Optimization"  by M. De Santis and G. Eichfelder
+[1] ["A Decision Space Algorithm for Multiobjective Convex Quadratic Integer Optimization"  by M. De Santis and G. Eichfelder](http://www.optimization-online.org/DB_HTML/2020/07/7879.html)
 
 
 The directory  further provides the following files:
